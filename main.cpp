@@ -12,6 +12,8 @@
 
 #include "tinyxml2/tinyxml2.h"
 
+#include <fstream>
+
 using namespace std;
 
 
@@ -24,16 +26,23 @@ qDebug() << "pressed";
 int main(int argc, char *argv[])
 {
 
-    tinyxml2::XMLDocument doc;
-    cout<<doc.LoadFile("test.xml");
-
-   // const char * title = doc.FirstChildElement()->GetText();
-
     QApplication a(argc, argv);
 
-   tinyxml2::XMLText* textNode = doc.FirstChildElement()->ToText();
+
+
+
+    const char * fname="../PopDialog/test.xml";
+
+    tinyxml2::XMLDocument doc;
+    int code = doc.LoadFile(fname);
+
+    const char * title = doc.FirstChildElement()->FirstChildElement()->GetText();
+
+
+
+ //  tinyxml2::XMLText* textNode = doc.FirstChildElement()->ToText();
     //const char * title = textNode->Value();
-//cout<<title<<endl;
+ cout<<title<<endl;
    PopDialog w;
    w.SetWindowTitle("MY POP DIALOG");
 

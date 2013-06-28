@@ -1,0 +1,13 @@
+#ifndef PLINE_H
+#define PLINE_H
+
+class pline
+{
+public:
+    pline();
+private:
+    bool closed;
+    vector<int> coordinates;
+};
+
+#endif // PLINE_H

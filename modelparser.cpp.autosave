@@ -1,0 +1,13 @@
+#include "modelparser.h"
+
+#include "tinyxml2/tinyxml2.h"
+
+
+ModelParser::ModelParser(const char * fname)
+{
+    XMLDocument doc;
+    doc.LoadFile(fname);
+
+    
+    
+}

@@ -1,0 +1,15 @@
+#ifndef ENTITY_H
+#define ENTITY_H
+
+class Entity
+{
+public:
+    Entity();
+private:
+    char * handle;
+    int shape, color;
+    bool is3d;
+    
+};
+
+#endif // ENTITY_H

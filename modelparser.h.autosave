@@ -1,0 +1,12 @@
+#ifndef MODELPARSER_H
+#define MODELPARSER_H
+
+class ModelParser
+{
+public:
+    ModelParser(const char *fname);
+private:
+    XMLDocument doc;
+};
+
+#endif // MODELPARSER_H
