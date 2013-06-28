@@ -10,7 +10,7 @@
 
 //#include "ModelLoader.h"
 
-#include "tinyxml/tinyxml2.h"
+#include "tinyxml2/tinyxml2.h"
 
 using namespace std;
 

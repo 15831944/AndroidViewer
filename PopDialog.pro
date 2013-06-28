@@ -24,7 +24,7 @@ SOURCES += main.cpp\
     popdialog.cpp \
     qslider2.cpp \
     painter.cpp \
-    tinyxml/tinyxml2.cpp
+    tinyxml2/tinyxml2.cpp
 
 HEADERS  += \
     tree.h \
@@ -33,7 +33,7 @@ HEADERS  += \
     node.h \
     qslider2.h \
     painter.h \
-    tinyxml/tinyxml2.h
+    tinyxml2/tinyxml2.h
 
 
 FORMS    += popdialog.ui
