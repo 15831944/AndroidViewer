@@ -1,0 +1,24 @@
+/media/ben/Devi/Carlson/PopDialog/android/bin/PopDialog.ap_ \
+ : /media/ben/Devi/Carlson/PopDialog/android/res/values-pt-rBR/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-es/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-nb/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-de/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-ms/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-fa/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-zh-rTW/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-ru/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-it/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-zh-rCN/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/layout/splash.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-et/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-el/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-ro/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-rs/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-id/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values/libs.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-pl/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-ja/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-fr/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/res/values-nl/strings.xml \
+/media/ben/Devi/Carlson/PopDialog/android/bin/AndroidManifest.xml \
